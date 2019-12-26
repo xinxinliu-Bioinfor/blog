@@ -32,7 +32,7 @@
 超链接
 
 
-[链接到百度](!www.baidu.com)  
+[链接到百度](https://www.baidu.com)  
 [链接到本地子页面](./sub.md)
 
 
@@ -41,7 +41,7 @@
 
 ![本地相对图片](./image/hh.jpeg)
 
-![网络图片](https://www.baidu.com/img/bd_logo1.png?where=super)
+![网络图片](https://www.baidu.com/img/bd_logo1.png)
 
 
 ---
