@@ -17,6 +17,18 @@
 >  other than your browser.
 
 
+正文**加粗**需要这样写，***斜体***这样写  
+
+下角标  
+X<sub>i</sub>
+
+H<sub>2</sub>O  CO<sub>2</sub>
+
+
+上角标  
+益达<sup>TM</sup>
+
+
 ---
 分割线
 
